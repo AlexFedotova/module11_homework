@@ -1,3 +1,4 @@
+// Задание 5//
 const NaturalNumbers = (x, n) => {
     return x * n;
    }
