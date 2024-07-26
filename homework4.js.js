@@ -1,3 +1,4 @@
+// Задание 4//
 function num(a, b) {
     let i = setInterval(() => {
       console.log(a);
